@@ -1,1 +1,10 @@
-﻿Console.WriteLine("Hola mundo");
+﻿namespace Actividad1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            
+        }
+    }
+}
