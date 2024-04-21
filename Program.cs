@@ -3,7 +3,7 @@
     class Program
     {
         static void Main(string[] args)
-        {
+        {/*
             Console.WriteLine("Este programa solicita los nombres de los alumnos y sus calificaciones y muestra el promedio del curso y los estudiante con calificaciones menores al promedio");
             List<string> names = NewClass.Names();
             Dictionary<string, double> grades = NewClass.Grades(names);
@@ -18,7 +18,10 @@
                 {
                     Console.WriteLine(grade.Key + " con nota: " + grade.Value);
                 }
-            }
+            }*/
+            Sebastian.Start();
+            
+            
         }
     }
 }
